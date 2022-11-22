@@ -1,31 +1,32 @@
 :root{
-  --pp-primary: #fffffe;
-  --pp-secondary: #72757e;
-  --pp-terciary: #2cb67d;
-  --pp-accent: #7f5af0;
-  --pp-font-head: #fffffe;
+  --pp-primary:#fffffe;
+  --pp-secondary:#72757e;
+  --pp-terciary:#2cb67d;
+  --pp-accent:#7f5af0;
+  --pp-font-head:#fffffe;
   --pp-font-sub:#94a1b2;
-  --pp-background: #16161a;
+  --pp-font-primary:#fffffe;
+  --pp-font-secondary:#72757e;
+  --pp-font-terciary:#2cb67d;
+  --pp-font-accent:#7f5af0;
+  --pp-font-background:#16161a;
+  --pp-background:#16161a;
   --pp-button:#7f5af0;
 
 }
 .pp-primary{
     background-color: var(--pp-primary);
-    color: var(--pp-primary);
 }
 .pp-background{
     background-color: var(--pp-background);
 }
 .pp-secondary{
     background-color: var(--pp-secondary);
-    color: var(--pp-secondary);
 }
 .pp-terciary{
-    color: var(--pp-terciary);
     background-color: var(--pp-terciary);
 }
 .pp-accent{
-    color: var(--pp-accent);
     background-color: var(--pp-accent);
 }
 .pp-font-head{
@@ -34,7 +35,25 @@
 .pp-font-sub{
     color: var(--pp-font-sub);
 }
+.pp-font-primary{
+    color: var(--pp-font-primary);
+}
+.pp-font-secondary{
+    color: var(--pp-font-secondary);
+
+}
+.pp-font-terciary{
+    color: var(--pp-font-terciary);
+
+}
+.pp-font-accent{
+    color: var(--pp-font-accent);
+
+}
+.pp.font-background{
+    color: var(--pp-font-background);
+
+}
 pp-button{
-    color: var(--pp-button);
     background-color: var(--pp-button);
 }
