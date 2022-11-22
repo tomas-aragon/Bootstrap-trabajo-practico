@@ -1,0 +1,40 @@
+:root{
+  --pp-primary: #fffffe;
+  --pp-secondary: #72757e;
+  --pp-terciary: #2cb67d;
+  --pp-accent: #7f5af0;
+  --pp-font-head: #fffffe;
+  --pp-font-sub:#94a1b2;
+  --pp-background: #16161a;
+  --pp-button:#7f5af0;
+
+}
+.pp-primary{
+    background-color: var(--pp-primary);
+    color: var(--pp-primary);
+}
+.pp-background{
+    background-color: var(--pp-background);
+}
+.pp-secondary{
+    background-color: var(--pp-secondary);
+    color: var(--pp-secondary);
+}
+.pp-terciary{
+    color: var(--pp-terciary);
+    background-color: var(--pp-terciary);
+}
+.pp-accent{
+    color: var(--pp-accent);
+    background-color: var(--pp-accent);
+}
+.pp-font-head{
+    color: var(--pp-font-head);
+}
+.pp-font-sub{
+    color: var(--pp-font-sub);
+}
+pp-button{
+    color: var(--pp-button);
+    background-color: var(--pp-button);
+}
