@@ -131,7 +131,7 @@ body{
 
 }
 
-#way > a:active{
+#way > a{
 
     color: var(--pp-font-background);
 }
