@@ -127,7 +127,8 @@ body{
 #lib{
 
     font-size: 2rem;
-    font-style: italic;
+    color: var(--pp-font-primary);
+
 }
 
 #way > a:active{
