@@ -118,4 +118,23 @@ body{
     border-radius: 10px;
 }
 
-#siempre{}
+#siempre{
+
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+#lib{
+
+    font-size: 2rem;
+    font-style: italic;
+}
+
+#way > a:active{
+
+    color: var(--pp-font-terciary);
+}
+#way > a:hover{
+
+    color: var(--pp-font-terciary);
+}
