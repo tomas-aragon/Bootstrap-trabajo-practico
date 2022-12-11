@@ -60,7 +60,11 @@ pp-button{
 
 
 body{
-    background-color:var(--pp-background)
+    background-color:var(--pp-background);
+    
+}
+p{
+    font-size: 1.25rem;
 }
 
 #hero-section{
