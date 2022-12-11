@@ -68,7 +68,8 @@ body{
     text-align: center;
     justify-content: center;
     flex-direction: column;
-    border:  3px solid var(pp-accent)
+    border:  3px solid var(pp-accent);
+    border-radius: 3px;
     
 }
 
@@ -80,3 +81,41 @@ body{
     text-align: center;
 }
 
+.izq{
+    text-align: left;
+
+}
+
+.der{
+    text-align: right;
+}
+
+
+#libertades{
+    margin: 2rem 0;
+    border: #2cb67d;
+    border-radius: 3px;
+}
+#pinturas-head{
+
+    text-align: center;
+}
+
+#dona{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    border:3px solid #2cb67d ;
+    border-radius: 3px;
+    
+}
+
+.navbar{
+
+    border-radius: 10px;
+}
+
+#siempre{}
