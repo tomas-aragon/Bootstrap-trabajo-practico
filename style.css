@@ -133,7 +133,7 @@ body{
 
 #way > a:active{
 
-    color: var(--pp-font-terciary);
+    color: var(--pp-font-background);
 }
 #way > a:hover{
 
