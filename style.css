@@ -8,7 +8,7 @@
   --pp-font-primary:#fffffe;
   --pp-font-secondary:#72757e;
   --pp-font-terciary:#2cb67d;
-  --pp-font-accent:#7f5af0;
+  --pp-font-accent:#6344be;
   --pp-font-background:#16161a;
   --pp-background:#16161a;
   --pp-button:#7f5af0;
@@ -57,3 +57,22 @@
 pp-button{
     background-color: var(--pp-button);
 }
+
+
+body{
+    background-color:var(--pp-background)
+}
+
+#hero-section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 
+    
+}
+
+#hero-section > img{
+    margin : 0 auto;
+}
+
