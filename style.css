@@ -50,7 +50,7 @@
     color: var(--pp-font-accent);
 
 }
-.pp.font-background{
+.pp-font-background{
     color: var(--pp-font-background);
 
 }
@@ -68,11 +68,15 @@ body{
     text-align: center;
     justify-content: center;
     flex-direction: column;
-    border: 
+    border:  3px solid var(pp-accent)
     
 }
 
-#hero-section > img{
+
+
+.centrar-hor{
+
     margin : 0 auto;
+    text-align: center;
 }
 
