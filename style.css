@@ -138,3 +138,19 @@ body{
 
     color: var(--pp-font-terciary);
 }
+
+.radio{
+    border-radius: 3px;
+}
+
+#lang > p >a {
+
+    color: var(--pp-accent);
+}
+#pinturas{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
