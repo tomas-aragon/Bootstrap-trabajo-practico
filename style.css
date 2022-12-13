@@ -173,3 +173,13 @@ height: 25rem;
         margin: 0 auto;
     }
     }
+#foot{
+
+    width: 100%;
+    display: flex;
+}
+#foot-text{
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
