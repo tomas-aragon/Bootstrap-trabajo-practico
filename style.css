@@ -188,3 +188,18 @@ height: 25rem;
 .git > p > a{
     color: var();
 }
+
+#car{
+
+    height: auto;
+    width: 50%;
+    
+}
+.car{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cert a{
+color:#16161a;}
